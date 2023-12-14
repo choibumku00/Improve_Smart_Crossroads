@@ -3,7 +3,7 @@
 
 # 전체 프레임워크
 ## 스마트교차로 신호 개선 프레임워크
-![image](https://github.com/choibumku00/Improve_Smart_Crossroads/assets/101037541/6f5489d4-902c-4907-89fc-75ab02a35d2d)
+![image](https://github.com/025792/Improve_Smart_Crossroads/assets/145456342/3e0f96b4-ac0d-4f60-9c9d-2af6a0c912d6)  
 [프레임워크 코드 링크](https://github.com/choibumku00/Improve_Smart_Crossroads/blob/main/%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B5%90%EC%B0%A8%EB%A1%9C_%EC%8B%A0%ED%98%B8_%EA%B0%9C%EC%84%A0_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.ipynb)
 
 # 실험 결과
