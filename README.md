@@ -14,4 +14,20 @@
 기존 교통량으로 1시간 후 교통량을 LSTM으로 알아낸다.  
 그 교통량을 가지고 DNN에 넣어 속도를 예측한다.  
 이 속도를 기존 속도와 비교한다.  
+### 기존
 ![image](https://github.com/choibumku00/Improve_Smart_Crossroads/assets/101037541/e504634c-5a4e-46fa-b14e-5907e188bfd8)
+
+### 날씨 제거
+![lstm_dnn 정확도(날씨 제거)](https://github.com/choibumku00/Improve_Smart_Crossroads/assets/101037541/eea813fc-b3b4-4cbc-8d70-70f4dd80b87f)
+
+
+## 개별 모델 정확도
+### 기존
+LSTM MSE: 338.56  
+DNN MSE: 8.00  
+LSTM + DNN MSE: 8.29  
+
+### 날씨 제거
+LSTM MSE: 351.84  
+DNN MSE: 8.03  
+LSTM + DNN MSE: 8.10  
