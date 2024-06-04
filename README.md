@@ -10,6 +10,8 @@
 ## 기존 속도 대비 개선 속도 
 ![image](https://github.com/choibumku00/Improve_Smart_Crossroads/assets/101037541/f20bdd33-015e-4ff8-a5a8-d6c34cf1800e)
 
+기존 속도에 비하여여 7.2% 향상 
+
 ## LSTM DNN 정확도 측정
 기존 교통량으로 1시간 후 교통량을 LSTM으로 알아낸다.  
 그 교통량을 가지고 DNN에 넣어 속도를 예측한다.  
